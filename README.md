@@ -1,2 +1,2 @@
-# proghub-2
+# Proghub-2
 Programmering 2
