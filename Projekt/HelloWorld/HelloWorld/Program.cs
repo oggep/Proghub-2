@@ -47,7 +47,18 @@ namespace HelloWorld
                 Console.WriteLine("Grattis!");
                 break;
             };
-
+            var names = new string[5];
+            Console.WriteLine("Skriv 5 namn");
+            for (int i = 0; i < names.Length; i++)
+            {
+                names[i] = Console.ReadLine();
+            };
+            Console.WriteLine("");
+            Array.Reverse(names);
+            foreach (string reverse in names)
+            {
+                Console.WriteLine(reverse);
+            }
         }
     }
 }
