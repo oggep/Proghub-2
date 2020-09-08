@@ -41,12 +41,11 @@ namespace HelloWorld
 
             }
             Console.WriteLine("skriv siffran 1");
-            var k = Convert.ToInt32(Console.ReadLine());
-            while (k = 1)
+            int k = Convert.ToInt32(Console.ReadLine());
+            while (k == 1)
             {
                 Console.WriteLine("Grattis!");
-                k++;
-                break
+                break;
             };
 
         }
