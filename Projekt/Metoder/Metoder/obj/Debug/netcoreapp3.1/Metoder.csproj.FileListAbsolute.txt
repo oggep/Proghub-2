@@ -1,0 +1,13 @@
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Projekt\Metoder\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
