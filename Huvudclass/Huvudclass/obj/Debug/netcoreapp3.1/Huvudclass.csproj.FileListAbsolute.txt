@@ -1,0 +1,13 @@
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.csprojAssemblyReference.cache
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.AssemblyInfoInputs.cache
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.AssemblyInfo.cs
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.csproj.CoreCompileInputs.cache
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\bin\Debug\netcoreapp3.1\Huvudclass.exe
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\bin\Debug\netcoreapp3.1\Huvudclass.deps.json
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\bin\Debug\netcoreapp3.1\Huvudclass.runtimeconfig.json
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\bin\Debug\netcoreapp3.1\Huvudclass.runtimeconfig.dev.json
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\bin\Debug\netcoreapp3.1\Huvudclass.dll
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\bin\Debug\netcoreapp3.1\Huvudclass.pdb
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.dll
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.pdb
+C:\Users\oskar.persson10\Documents\GitHub\proghub-2\Huvudclass\Huvudclass\obj\Debug\netcoreapp3.1\Huvudclass.genruntimeconfig.cache
