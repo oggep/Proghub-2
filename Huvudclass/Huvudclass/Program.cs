@@ -6,14 +6,14 @@ using System.Threading.Tasks.Dataflow;
 namespace Huvudclass
 {
     class Program
-    {
+    {   //Dessa är mina objekt, listor och globala variabler
         Customer customer = new Customer { name = "" };
         Product product = new Product();
         public static List<string> cart = new List<string>();
         public static int Shoppingcart;
 
 
-
+        //I min mainmetod så ger den kunden ett namn och kopplar till min beställning
         static void Main(string[] args)
         {
             Console.WriteLine("What's your name?");
@@ -22,6 +22,7 @@ namespace Huvudclass
             
             Program.shop();
         }
+        //här väljer du vad du vill köpa eller gå vidare
         static void shop()
         {
             while (true)
@@ -45,6 +46,7 @@ namespace Huvudclass
                 }
                 break;
             }
+            //Här printar den ut alla dina produkter som du har valt.
             cart.ToArray();
             foreach (var Shoppingcart in cart)
             {

@@ -5,7 +5,7 @@ namespace Huvudclass
 {
     class Product
     {
-        public string product1 = "";
-        public string product2 = "";
+        public string product1 = "shirt";
+        public string product2 = "pant";
     }
 }

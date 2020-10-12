@@ -5,6 +5,7 @@ namespace Huvudclass
 {
     public class Customer
     {
+        //Här väljer den namn
         public string name { get; set; }
         
     }
