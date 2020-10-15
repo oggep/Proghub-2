@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Huvudclass
 {
-    class Shirt : Product
+    class Shirts : Product
     {
         public string tshirt;
         public string tanktop;
