@@ -28,21 +28,26 @@ namespace Huvudclass
             while (true)
             {
                 Console.WriteLine("What type of product do you want?");
-                Console.WriteLine("1. Shirt," + " 2. Pant" + " 3. I want to check out.");
+                Console.WriteLine("1. Shirt," + " 2. Pant" + "3. Shoes" + "4. I want to check out.");
                 int Shoppingcart = Convert.ToInt32(Console.ReadLine());
 
                 switch (Shoppingcart)
                 {
                     case 1:
-                        cart.Add("shirt");
+                        var Shirts = new Shirts();
+                        cart.Add("Shirt");
                         continue;
                     case 2:
-                        cart.Add("pant");
+                        var Pants = new Pants();
+                        cart.Add("Pants");
                         continue;
                     case 3:
+                        var Shoes = new Shoes();
+                        cart.Add("Shoes");
+                        continue;
+                    case 4:
                         Console.WriteLine("Your order:");
-                     
-                     break;
+                        break;
                 }
                 break;
             }
